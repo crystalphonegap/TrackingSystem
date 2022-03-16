@@ -1,0 +1,13 @@
+﻿@page "{Message}"
+@model WhatsApp_Webhook.Pages.MessageModel
+@{
+
+}
+@if (TempData["message"] != null)
+{
+    <div class="col-sm-8">
+        <div class="alert alert-primary">
+            @TempData["message"]
+        </div>
+    </div>
+}

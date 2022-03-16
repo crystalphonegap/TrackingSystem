@@ -1,0 +1,176 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>SignalR Real time graph</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+    <script src="lib/jquery/jquery.min.js"></script>
+    <link href="lib/chart.js/dist/Chart.css" rel="stylesheet" />
+
+    <script src="lib/chart.js/dist/Chart.bundle.min.js"></script>
+</head>
+<body>
+    <div id="display"></div>
+    <label id="connetion-status" style="margin-left: 17px;"></label>
+    <div id="display_On"></div>
+    <div>
+        <h1> <label id="display-data" style="margin-left: 17px;"></label></h1>
+    </div>
+    <div class="container">
+        <canvas id="PieChart" width="500" height="300"></canvas>
+    </div>
+
+    <script>
+        //TODO: remove the js inside this page.
+        var dataPoints = [];
+        var labelsValue = "";
+
+        var dataValue = "";
+
+
+
+
+
+
+
+
+
+
+
+
+
+        let startConnection = () => {
+            connection.start()
+                .then(e => {
+                    $("#connetion-status").text("Connection opened");
+                    $("#connetion-status").css("color", "green");
+                })
+                .catch(err => console.log(err));
+        };
+
+
+
+        let Invoke = () => {
+
+            connection.invoke("chartPie")
+                .catch(err => console.log(err));
+
+        };
+
+
+        let refreshProductList = (js) => {
+
+            $("#display").text(js);
+            console.log("Start");
+            console.log(js);
+            var JsonObj = JSON.parse(js);
+            //for (var i = 0; i < JsonObj.length; i++) {
+            //    dataPoints.push({
+            //        Category: JsonObj[i].Category,
+            //        Count: JsonObj[i].Count
+            //    });
+            //}
+
+            labelsValue = JsonObj.map(function (e) {
+                return e.Category;
+            });
+
+            dataValue = JsonObj.map(function (e) {
+                return e.Count;
+            });
+
+
+            console.log("End");
+            console.log(labelsValue);
+            console.log(dataValue);
+            ChartLoad(labelsValue, dataValue);
+
+            $("#display").text(labelsValue);
+            $("#display_On").text(dataValue);
+            $("#display-data").text(js);
+       
+
+
+
+
+        }
+
+        ///let connection = new signalR.HubConnection('http://${document.location.host}/charts', 'formatType=json&format=text');
+        let connection = new signalR.HubConnectionBuilder().withUrl("/charts").build();
+        connection.start().then(() => {
+            connection.invoke('GetPieChart').catch(err => console.error(err.toString()));
+        })
+        // startConnection();
+
+        connection.onClosed = e => {
+            if (e) {
+                $("#connetion-status").text("Connection closed " + e);
+                $("#connetion-status").css("color", "red");
+            }
+            else {
+                $("#connetion-status").text("Connection closed");
+                $("#connetion-status").css("color", "green");
+            }
+            startConnection();
+        };
+
+        connection.on('chartPie', js => {
+
+
+            refreshProductList(js);
+        });
+
+
+
+
+
+
+        let ChartLoad = (LabelValue, DataValue) => {
+
+            let canvasPie = document.getElementById("PieChart").getContext('2d');
+
+            let myDoughnutChart = new Chart(canvasPie, {
+                type: 'doughnut',
+                data: {
+                    datasets: [{
+                        data: DataValue,
+                        backgroundColor: [
+                            'rgba(255, 99, 132, 0.6)',
+                            'rgba(54, 162, 235, 0.6)',
+                            'rgba(255, 206, 86, 0.6)'
+                        ],
+
+                        label: 'Dataset 1',
+                        borderColor: [
+                            'rgba(255, 99, 132, 0.6)',
+                            'rgba(54, 162, 235, 0.6)',
+                            'rgba(255, 206, 86, 0.6)'
+                        ]
+                    }],
+                    labels: LabelValue,
+                },
+                options: {
+                    responsive: true,
+                    legend: {
+                        position: 'top',
+                    },
+                    title: {
+                        display: true,
+                        text: 'Chart.js Doughnut Chart'
+                    },
+                    animation: {
+                        animateScale: true,
+                        animateRotate: true
+                    }
+                }
+            });
+
+        };
+
+    </script>
+</body>
+
+</html>

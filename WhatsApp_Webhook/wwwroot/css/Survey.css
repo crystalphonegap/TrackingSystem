@@ -1,0 +1,92 @@
+﻿
+.btn-green {
+    background-color: #1ab394;
+    color: #fff;
+    border-radius: 3px;
+}
+
+    .btn-green:focus,
+    .btn-green:hover {
+        background-color: #18a689;
+        color: #fff;
+    }
+
+.panel-footer {
+    padding: 0 15px;
+    border: none;
+    text-align: right;
+    background-color: #fff;
+}
+
+.sv_qstn .sq-root {
+    border: 1px solid gray;
+    border-left: 4px solid #18a689;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.sv_qstn .sq-root-cb {
+    border-left: 4px solid orange;
+}
+
+.sq-title {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.sq-title-required {
+    color: red;
+}
+
+.sq-label {
+    margin-left: 30px;
+}
+
+.sq-item:nth-child(1) {
+    margin-bottom: 5px;
+}
+
+
+nav {
+    float: left;
+    margin: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+    nav ul {
+        margin: 0;
+        padding: 0;
+    }
+
+        nav ul li {
+            display: inline-block;
+            list-style-type: none;
+        }
+
+    nav > ul > li > a {
+        color: #aaa;
+        display: block;
+        line-height: 2em;
+        padding: 0.5em 1em;
+        text-decoration: none;
+    }
+
+.logo-img-left {
+    float: left;
+    
+    position: relative;
+    margin: 10px 15px 15px 10px;
+}
+
+.logo-img-right{
+    float: right;
+    position: relative;
+    margin: 10px 15px 15px 10px;
+}
+
+.bg-div {
+   
+    overflow: hidden;
+}

@@ -1,0 +1,1334 @@
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.exe
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.deps.json
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.json
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.dev.json
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Cloud.Dialogflow.V2.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.LongRunning.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Auth.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.Manifest.cache
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.xml
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfoInputs.cache
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfo.cs
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cache
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csproj.CopyComplete
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csprojAssemblyReference.cache
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\WhatsApp Webhook\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.MvcApplicationPartsAssemblyInfo.cache
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.exe
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.deps.json
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.json
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.dev.json
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Cloud.Dialogflow.V2.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.LongRunning.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Auth.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csprojAssemblyReference.cache
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.Manifest.cache
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.xml
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cache
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cs
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfoInputs.cache
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfo.cs
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.input.cache
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.output.cache
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorCoreGenerate.cache
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cache
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cs
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csproj.CopyComplete
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Feedback_Survey.cshtml.g.cs
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.pdb
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.pdb
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.MvcApplicationPartsAssemblyInfo.cache
+D:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Message.cshtml.g.cs
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\libman.json
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.exe
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.deps.json
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.json
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.dev.json
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Cloud.Dialogflow.V2.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.LongRunning.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Auth.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.pdb
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.pdb
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csprojAssemblyReference.cache
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.Manifest.cache
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.xml
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.MvcApplicationPartsAssemblyInfo.cache
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cache
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cs
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfoInputs.cache
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfo.cs
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.input.cache
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.output.cache
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorCoreGenerate.cache
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Feedback_Survey.cshtml.g.cs
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Message.cshtml.g.cs
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Survey.cshtml.g.cs
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cache
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cs
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csproj.CopyComplete
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+D:\Live Project\WhatsApp_Webhook_14.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\libman.json
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.exe
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.deps.json
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.json
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.dev.json
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Cloud.Dialogflow.V2.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.LongRunning.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Auth.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\TableDependency.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.pdb
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.pdb
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csprojAssemblyReference.cache
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.Manifest.cache
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.xml
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cache
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cs
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfoInputs.cache
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfo.cs
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.input.cache
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.output.cache
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorCoreGenerate.cache
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Feedback_Survey.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Message.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\NPS_Dashboard.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Survey.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cache
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cs
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csproj.CopyComplete
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_23.03.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.MvcApplicationPartsAssemblyInfo.cache
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\libman.json
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.exe
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.deps.json
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.json
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.dev.json
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Cloud.Dialogflow.V2.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.LongRunning.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Auth.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\TableDependency.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.pdb
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.pdb
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csprojAssemblyReference.cache
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.Manifest.cache
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.xml
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.MvcApplicationPartsAssemblyInfo.cache
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cache
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cs
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfoInputs.cache
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfo.cs
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.input.cache
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.output.cache
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorCoreGenerate.cache
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Feedback_Survey.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Message.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\NPS_Dashboard.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Survey.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cache
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cs
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csproj.CopyComplete
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_SinglePage.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Dashboard\index.cshtml.g.cs
+D:\Live Project\Lates_WhatsApp_Webhook_01.04.2020\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Geolocation.cshtml.g.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\libman.json
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.json
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.exe
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.deps.json
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.json
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.dev.json
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Cloud.Dialogflow.V2.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.LongRunning.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Auth.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\TableDependency.SqlClient.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.pdb
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.pdb
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csprojAssemblyReference.cache
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfoInputs.cache
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfo.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csproj.CoreCompileInputs.cache
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.MvcApplicationPartsAssemblyInfo.cache
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cache
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.input.cache
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.output.cache
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorCoreGenerate.cache
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Dashboard\index.cshtml.g.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Feedback_Survey.cshtml.g.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Geolocation.cshtml.g.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Message.cshtml.g.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\NPS_Dashboard.cshtml.g.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_SinglePage.cshtml.g.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Survey.cshtml.g.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cache
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cs
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csproj.CopyComplete
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.Manifest.cache
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.xml
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+E:\WABA\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.genruntimeconfig.cache
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\libman.json
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.exe
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.deps.json
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.json
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.dev.json
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Cloud.Dialogflow.V2.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.LongRunning.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Auth.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\TableDependency.SqlClient.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.pdb
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.pdb
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csprojAssemblyReference.cache
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfoInputs.cache
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfo.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csproj.CoreCompileInputs.cache
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.MvcApplicationPartsAssemblyInfo.cache
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cache
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.input.cache
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.output.cache
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorCoreGenerate.cache
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Dashboard\index.cshtml.g.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Feedback_Survey.cshtml.g.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Geolocation.cshtml.g.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Message.cshtml.g.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\NPS_Dashboard.cshtml.g.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_SinglePage.cshtml.g.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Survey.cshtml.g.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cache
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cs
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csproj.CopyComplete
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.Manifest.cache
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.xml
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+E:\Live Project\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.genruntimeconfig.cache
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\libman.json
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.exe
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.deps.json
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.json
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.runtimeconfig.dev.json
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.CommonProtos.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Api.Gax.Grpc.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Cloud.Dialogflow.V2.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.LongRunning.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Auth.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\TableDependency.SqlClient.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Models.pdb
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\NPS.Services.pdb
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfoInputs.cache
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.AssemblyInfo.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csproj.CoreCompileInputs.cache
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.MvcApplicationPartsAssemblyInfo.cache
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cache
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorAssemblyInfo.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.Manifest.cache
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\staticwebassets\WhatsApp_Webhook.StaticWebAssets.xml
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\scopedcss\bundle\WhatsApp_Webhook.styles.css
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.input.cache
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.TagHelpers.output.cache
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorCoreGenerate.cache
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Dashboard\index.cshtml.g.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Feedback_Survey.cshtml.g.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Geolocation.cshtml.g.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Message.cshtml.g.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\NPS_Dashboard.cshtml.g.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_SinglePage.cshtml.g.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Survey.cshtml.g.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cache
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.RazorTargetAssemblyInfo.cs
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.Views.pdb
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csproj.CopyComplete
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.pdb
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.genruntimeconfig.cache
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.csproj.AssemblyReference.cache
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\obj\Debug\netcoreapp3.1\WhatsApp_Webhook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Ariston Projects\WhatsApp_Webhook\WhatsApp_Webhook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

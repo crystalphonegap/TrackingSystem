@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <title>SignalR Real-time Chart Example</title>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@aspnet/signalr@1.0.0/dist/browser/signalr.min.js"></script>
+
+    <script type="text/javascript">
+      let popCanvasName = document.getElementById("chart");
+
+
+
+        const connection = new signalR.HubConnectionBuilder().withUrl("/charts").build();
+
+        connection.on("chartPie", function(js) {
+
+            popCanvasName.innerText = js;
+        });
+
+
+
+        connection.start().catch(function (err){
+            return console.error(err.toString);
+        });
+    </script>
+
+</head>
+
+<body>
+    <canvas id="chart" style="width: 512px; height: 320px"></canvas>
+</body>
+
+</html>

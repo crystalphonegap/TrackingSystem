@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>@ViewBag.Title</title>
+    <script src="https://unpkg.com/jquery"></script>
+    <script src="https://surveyjs.azureedge.net/1.5.15/survey.jquery.js"></script>
+    <link href="~/lib/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="~/images/logo-primary-1.png" alt="">
+            </a>
+            <a class="navbar-brand" href="#">
+                <img src="~/images/logo-primary.png" alt="">
+            </a>
+        </div>
+    </nav>
+
+
+    <div class="container">
+
+        <div class="row">
+            @*<div class="bg-div">
+                    <img class="logo-img-left" src="~/images/logo-primary.png" align="left" />
+
+                    <img class="logo-img-right" src="~/images/logo-primary-1.png" align="right" />
+                </div>*@
+            <div class="row">
+                <div class="col-sm-12">
+
+                    @RenderBody()
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <script>
+        // polyphil for ie
+        if (!Object.values)
+            Object.values = function (object) {
+                return Object
+                    .keys(object)
+                    .map(function (key) {
+                        return object[key];
+                    });
+            };
+    </script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css" />
+    <script src="https://surveyjs.azureedge.net/1.5.15/surveyjs-widgets.js"></script>
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

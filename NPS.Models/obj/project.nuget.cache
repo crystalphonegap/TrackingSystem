@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YfWNTstfo3oYuzE5IzNN7u4JzBNU6PNKySB3L2jUw9IhKOpXVV2LJ3oPnftHwKOqlhGtyW/drc7WuRWqKNXNFg==",
+  "success": true,
+  "projectFilePath": "D:\\Ariston Projects\\WhatsApp_Webhook\\NPS.Models\\NPS.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\extpid4f\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\extpid4f\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

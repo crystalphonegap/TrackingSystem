@@ -1,0 +1,8 @@
+D:\Live Project\WhatsApp_Webhook\NPS.Models\bin\Debug\netstandard2.0\NPS.Models.deps.json
+D:\Live Project\WhatsApp_Webhook\NPS.Models\bin\Debug\netstandard2.0\NPS.Models.dll
+D:\Live Project\WhatsApp_Webhook\NPS.Models\bin\Debug\netstandard2.0\NPS.Models.pdb
+D:\Live Project\WhatsApp_Webhook\NPS.Models\obj\Debug\netstandard2.0\NPS.Models.csprojAssemblyReference.cache
+D:\Live Project\WhatsApp_Webhook\NPS.Models\obj\Debug\netstandard2.0\NPS.Models.AssemblyInfoInputs.cache
+D:\Live Project\WhatsApp_Webhook\NPS.Models\obj\Debug\netstandard2.0\NPS.Models.AssemblyInfo.cs
+D:\Live Project\WhatsApp_Webhook\NPS.Models\obj\Debug\netstandard2.0\NPS.Models.dll
+D:\Live Project\WhatsApp_Webhook\NPS.Models\obj\Debug\netstandard2.0\NPS.Models.pdb

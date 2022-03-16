@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "whatsapp-bfnkwj",
+  "private_key_id": "697107d540d0c13256208b45430d1f68c685c520",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqxGDWysMwtrzv\n38rqZRObkdWrqZZJT51J0rwQ3mtBUc0fk60M1Vk1iyruqx8sIsnWZEmmMp5XicoF\n788hqsiyNpYwzQJGrPlL3jV7J02O8LS+07sLn1pv9RvJTZ1lSidN3stY5Il+VdTC\nLT2af2jT6LFm9A3fDv2i/YSRzlIMEpYngR3uleXVKyxIt+fIwg6q5SL/39drdmKj\n5Dg7skink2mbGV0ahl1S/5D4Rcr4S2gpvIuYXxMerQuiEim7XqipxzRz1DKLRKYw\nU5q1G80onNfcF7R8gltPh5zldkIDOUSPDqXYGg7+7vL1sB5R6Nq593roOJNOhy/N\nowC9yjJtAgMBAAECggEAI8bp7QZlF5cphW4TIsGTdpP6urDYkjpyXy2eBkC7It/D\nBHsZlec6/ftOvtsuOD5/oAG55m6Tew6cu1qvQEP6MVA7bjT9ZZZG0qzW8prc5nYq\nwBI3DWvQ9ETbkfTHZZnAG1Hys4iJ/+R2o0n8LprD+SW2yTWXlGSdIiFQPYYG7Y09\nd0MbYP+m/HzsccR5nykikJziQ/bJYymHaYOjUddec3mXEgYYsZWRPRYmCTGVMxhW\nyKH3rT+ElEbiw267Ke4HNNhYlSGVOHeMcRRXc9I5H+6M0TN4gNXrCJMUVUs6HbqG\nafC2OCQLyjkJZ618kZ3HNbSDm4HA3mPI738ZP8nRAQKBgQDhsl4LxWy7okINgyGU\n0NdFbFf0ZK/X4JEvbdB+tO+MPSHmSbR0kZMdeXL5u4gkM9R25O4lC8u0WrqbRH8J\nvqOHaQSWh5B5fN+Yxhd1sXUwmn4rQUclVSULlozps/RG6+7EYNbjHdPcox5w6H79\ntRNocZZOKv7Qf4df7XzCIXq07QKBgQDBsfkZaVzsLyosLHqjjqnXugIAkO6WGU30\nFsy9CDAqSDrRb9Gvs+lvssegbpgmVwd/GVTlqgVuj61vNoOqsN8q23jqgZFOUJjG\nN9VPQCifG0jJrSV0JC1/7aq5v9SRoOUgklGGSNXa1fVppEfXXYT9ISpwCVquLPce\nGAbVR6dDgQKBgQClyc1Vnj9CEW2t2U54r3QCdhSh3Lhivn5HtcX63VQ90sYtEKUz\nH6BOfWEc20mlNkFy2LWqluCa6i67UXR0JwqetGD/ZjOVWkoxQgoHlUR9YG8fvQLT\nBJmCyqNWJK9izXqF3JDdIpL3Nwdsbwyhtzq7dPyxDNpDM/qwV5ZWUBt//QKBgQCI\nWXZW8xqckF8JlY4HUMgyuhfquhuZwdpkNyCM+RSezxXIlQRwwR9Up+9q+i9U3fLC\n/9wJh/Qm7jFSlnd9UuDmVHT775WQIaBJ+MfJ8AooZpaIkcBJz6XP5khGVcmXckGY\n+ic1dlREplUJtsFz07toTU6Ia61P6wtSPeuhe709AQKBgFGG1s7lCGKuutRRCL1a\nGj6Lt8CozMxMQuveRr1x66wKBXXCNWvdvm3oY4tJYPkeUg3AefVkS76+VVsv/6DV\nvIEI1EqW9TI0HyElOn3HbBUZJZ9WMKcW1Etj3mq5lVud6v8iKTd0VXxMuh5IJ98n\nAEBL8ytVEMI8dzA3jyYb5XAC\n-----END PRIVATE KEY-----\n",
+  "client_email": "ariston-crm@whatsapp-bfnkwj.iam.gserviceaccount.com",
+  "client_id": "106177756953247790858",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ariston-crm%40whatsapp-bfnkwj.iam.gserviceaccount.com"
+}

@@ -1,0 +1,103 @@
+﻿@page
+@model WhatsApp_Webhook.Pages.NPS_DashboardModel
+
+@{
+    ViewData["Title"] = "NPS Dashboard";
+}
+<div id="display"></div>
+<label id="connetion-status" style="margin-left: 17px;"></label>
+<div class="container">
+    <h2>Chart.js — Pie Chart Demo</h2>
+    <div>
+        <canvas id="myChart"></canvas>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script src="lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+    <script src="lib/jquery/jquery.min.js"></script>
+
+    <script>
+        //TODO: remove the js inside this page.
+var labels= [],
+var series= []
+var ctx = document.getElementById("myChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'pie',
+  data: {
+    labels: labels,
+    datasets: [{
+      backgroundColor: [
+        "#2ecc71",
+        "#3498db",
+        "#95a5a6",
+        "#9b59b6",
+        "#f1c40f",
+        "#e74c3c",
+        "#34495e"
+      ],
+      data: series
+    }]
+  }
+});
+
+
+
+
+        let startConnection = () => {
+            connection.start()
+                .then(e => {
+                    $("#connetion-status").text("Connection opened");
+                    $("#connetion-status").css("color", "green");
+                })
+                .catch(err => console.log(err));
+        };
+
+
+
+        let Invoke = () => {
+            alert("Invoke");
+            connection.invoke("chartPie")
+                .catch(err => console.log(err));
+
+        };
+
+
+        let refreshProductList = (js) => {
+            $("#display").text(js);
+            labels.push = js[0];
+            series.push = js[1];
+            
+        }
+
+        ///let connection = new signalR.HubConnection('http://${document.location.host}/charts', 'formatType=json&format=text');
+        let connection = new signalR.HubConnectionBuilder().withUrl("/charts").build();
+        connection.start().then(() => {
+            connection.invoke('GetPieChart').catch(err => console.error(err.toString()));
+        })
+        // startConnection();
+
+        connection.onClosed = e => {
+            if (e) {
+                $("#connetion-status").text("Connection closed " + e);
+                $("#connetion-status").css("color", "red");
+            }
+            else {
+                $("#connetion-status").text("Connection closed");
+                $("#connetion-status").css("color", "green");
+            }
+            startConnection();
+        };
+
+        connection.on('chartPie', js => {
+            alert(js[0]);
+             alert(js[1]);
+            refreshProductList(js);
+        });
+
+
+
+
+    </script>
+}

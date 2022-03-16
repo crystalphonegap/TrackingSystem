@@ -1,0 +1,282 @@
+﻿@page "{SR_No:length(9,9)}/{Region}/{Created_By}/{Source}"
+@model WhatsApp_Webhook.Pages.Feedback_Survey
+@using Microsoft.AspNetCore.Antiforgery
+@using Microsoft.AspNetCore.Routing
+@inject LinkGenerator LinkGenerator
+@inject IAntiforgery Xsrf
+
+@{
+
+    Layout = "~/Pages/Shared/_Survey.cshtml";
+}
+
+@Html.AntiForgeryToken()
+
+@Html.HiddenFor(m => m.Input.Created_By)
+<div class="row">
+    <div class="col">
+
+
+        <div id="surveyContainer"></div>
+
+    </div>
+</div>
+
+@section Scripts
+{
+    @*<script src="https://surveyjs.azureedge.net/1.5.15/survey.jquery.js"></script>*@
+
+
+    <script>
+    var surveyJSON = {
+	completedHtml: "<h3>Thank you for your feedback.</h3> <h5>Your thoughts and ideas will help us to create a great product!</h5>",
+	completedHtmlOnCondition: [{
+			expression: "{nps_score} > 8",
+			html: "<h3>Thank you for your feedback.</h3> <h5>We glad that you are happy with our service. Your ideas and suggestions will help us to make our product even better!</h5>"
+		},
+		{
+			expression: "{nps_score} < 7",
+			html: "<h3>Thank you for your feedback.</h3> <h5> We are glad that you share with us your ideas.We highly value all suggestions from our customers. We do our best to improve the product and reach your expectation.</h5>\n"
+		}
+	],
+	pages: [{
+		name: "page1",
+        elements: [{
+                type: "text",
+                name: "SR_No",
+                visible: false,
+            },
+            {
+                type: "text",
+                name: "Region",
+                visible: false,
+			},
+            {
+                type: "text",
+                name: "Created_By",
+                visible: false,
+            },
+
+            {
+
+				type: "radiogroup",
+				name: "Is_Satisfied",
+				title: "Are you satisfied with our service? ",
+				isRequired: true,
+				choices: [{
+						value: "Y",
+						text: "Yes"
+					},
+					{
+						value: "N",
+						text: "No"
+					}
+                ],
+                renderAs: "prettycheckbox"
+			},
+			{
+				type: "rating",
+				name: "nps_score",
+				title: "On a scale of zero to ten, how likely are you to recommend our product to a friend or colleague? (0-6 Not Satisfied, 7-8 Average, 9-10 Most Satisfied)",
+				isRequired: true,
+				rateMin: 0,
+				rateMax: 10
+            },
+            //{
+            //type: "html",
+            //name: "info",
+            //html: "<table><body><row><td style='padding:20px'>Detractor</td><td style='padding:20px'>Passive</td><td style='padding:20px'>Pramoter</td></row></body></table>"
+            //},
+			{
+				type: "checkbox",
+				name: "detrators_nps_reason",
+				visible: false,
+				visibleIf: "{nps_score} <= 6",
+				title: "We are really sorry the inconvenience caused to you. Please let us know the most important reasons for your dissatisfaction (you can select following option)",
+				isRequired: true,
+				validators: [{
+					type: "answercount",
+					text: "Please select one features maximum.",
+					maxCount: 10
+                }],
+
+				hasOther: true,
+				choices: [{
+						value: "NR001",
+						text: "Quality of Repair/ Installation"
+					},
+					{
+						value: "NR002",
+						text: "Product Quality"
+					},
+					{
+						value: "NR003",
+						text: "Technician Behavior"
+					},
+					{
+						value: "NR004",
+						text: "Adherence of Time"
+					},
+					{
+						value: "NR005",
+						text: "Product Policy"
+					},
+					{
+						value: "NR006",
+						text: "Spare Parts Cost"
+					}
+                ],
+                 //renderAs: "prettycheckbox",
+				otherText: "Other feature:",
+                colCount: 2
+			},
+			{
+				type: "checkbox",
+				name: "passive_nps_reason",
+				visible: false,
+				visibleIf: "{nps_score} = 7 or {nps_score} = 8",
+				title: "Please let us know your feedback for improvement. What is the most important reason for your rating (you can select following option)",
+				isRequired: true,
+				validators: [{
+					type: "answercount",
+					text: "Please select one features maximum.",
+					maxCount: 10
+				}],
+				hasOther: true,
+				choices: [{
+						value: "NR001",
+						text: "Quality of Repair/ Installation"
+					},
+					{
+						value: "NR002",
+						text: "Product Quality"
+					},
+					{
+						value: "NR003",
+						text: "Technician Behavior"
+					},
+					{
+						value: "NR004",
+						text: "Adherence of Time"
+					},
+					{
+						value: "NR005",
+						text: "Product Policy"
+					},
+					{
+						value: "NR006",
+						text: "Spare Parts Cost"
+					}
+				],
+				otherText: "Other feature:",
+                colCount: 2
+			},
+            {
+                type: "checkbox",
+                name: "promoter_nps_reason",
+                visible: false,
+                visibleIf: "{nps_score} = 9 or {nps_score} = 10",
+                title: "Thank you for your feedback. What is the most important reason for your rating (you can select following option)",
+                isRequired: true,
+                validators: [{
+                    type: "answercount",
+                    text: "Please select one features maximum.",
+                    maxCount: 10
+                }],
+                hasOther: true,
+                choices: [{
+                    value: "NR001",
+                    text: "Quality of Repair/ Installation"
+                },
+                {
+                    value: "NR002",
+                    text: "Product Quality"
+                },
+                {
+                    value: "NR003",
+                    text: "Technician Behavior"
+                },
+                {
+                    value: "NR004",
+                    text: "Adherence of Time"
+                },
+                {
+                    value: "NR005",
+                    text: "Product Policy"
+                },
+                {
+                    value: "NR006",
+                    text: "Spare Parts Cost"
+                }
+                ],
+                otherText: "Other feature:",
+                colCount: 2
+            },
+			{
+				type: "comment",
+				name: "feedback",
+				visible: true,
+				//visibleIf: "{nps_score} > 6  and {nps_score} < 9",
+				title: "What is the primary reason for your score?"
+			}
+		]
+	}],
+        showQuestionNumbers: "off",
+        clearInvisibleValues: "none"
+
+};
+
+        Survey.StylesManager.applyTheme("bootstrap");
+        Survey.defaultBootstrapCss.navigationButton = "btn btn-green";
+        Survey.defaultBootstrapCss.rating.item = "btn btn-info";
+        Survey.defaultBootstrapCss.rating.item[1] = "btn btn-green";
+        let survey = new  Survey.Model(surveyJSON);
+        let surveyResult = @Html.Raw(Model.SurveyResult);
+
+
+        //survey
+        //.onUpdateQuestionCssClasses
+        //.add(function (survey, options) {
+        //    var classes = options.cssClasses
+
+        //    classes.mainRoot += " sv_qstn";
+        //    classes.root = "sq-root";
+        //    classes.title += " sq-title"
+        //    classes.item += " sq-item";
+        //    classes.label += " sq-label";
+
+        //    if (options.question.isRequired) {
+        //        classes.title += " sq-title-required";
+        //        classes.root += " sq-root-required";
+        //    }
+
+        //    if (options.question.getType() === "checkbox") {
+        //        classes.root += " sq-root-cb";
+        //    }
+        //});
+
+        $("#surveyContainer").Survey({
+            model: survey,
+            data: {surveyResult },
+            onComplete: saveSurvey
+        });
+
+        function saveSurvey(survey) {
+    
+            $.post({
+                type: "POST",
+                url: '@LinkGenerator.GetUriByPage(HttpContext, null, "Save")',
+                //url:"api/NPS",
+                data: {
+                    data: JSON.stringify(survey.data)
+                },
+                headers: {
+                    "RequestVerificationToken": "@Xsrf.GetAndStoreTokens(HttpContext).RequestToken"
+                }
+            })
+            .done(function() {
+                //window.location.href = '/';
+            });
+        }
+    </script>
+}

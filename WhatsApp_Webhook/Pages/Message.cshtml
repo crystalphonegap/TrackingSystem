@@ -1,0 +1,13 @@
+﻿@page "{Message}"
+@model WhatsApp_Webhook.Pages.MessageModel
+@{
+    Layout = "~/Pages/Shared/_Survey.cshtml";
+}
+@if (TempData["message"] != null)
+{
+    <div class="col-sm-12 m-5 p-5">
+        <div class="alert alert-primary">
+            @TempData["message"]
+        </div>
+    </div>
+}
